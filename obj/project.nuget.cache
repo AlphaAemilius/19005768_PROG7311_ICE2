@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "INToJoozcg545v/wO7eB3nYkOZiJaZ05ALidFZAU7KPc8wz16dp2+ZKPmml2/UmMpLMZu0+sp9L/ULGSRyLByA==",
+  "dgSpecHash": "eneQ6MHE1+Mex/a5DFEndsHz11le+Pvcqx0zQUvZdpCCaGDg7QKi5XaPmv4+sU9GwuBGlKu34WW6wt9pYk7Hzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\powde\\OneDrive\\Workbench\\Programming 3A\\Projects\\StudentV2\\StudentV2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\powde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
   "logs": []
 }
